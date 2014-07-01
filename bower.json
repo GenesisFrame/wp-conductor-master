@@ -1,0 +1,17 @@
+{
+    "name": "gizburdt/wordpress-conductor",
+    "version": "0.1",
+    "dependencies": {
+        "fancybox":         "latest",
+        "respond":          "latest",
+        "enquire":          "latest",
+        "carouFredSel":     "latest",
+        "modernizr":        "latest",
+        "chosen":           "latest",
+        "fitvids":          "latest",
+        "html5shiv":        "latest",
+        "bxslider-4":       "latest",
+        "bootstrap":        ">=3.1.1"
+    },
+    "private": "true"
+}
